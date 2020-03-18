@@ -1,0 +1,9 @@
+#Kacper Turkowski
+	In catalog is::
+		-cw1a.c
+			Program write UID GID PID PPID PGID
+		-cwb.c
+			Program evoke function forh three times
+			Program write Parent Process and child using exec
+			-Makefile
+

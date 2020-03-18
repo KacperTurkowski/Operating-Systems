@@ -1,0 +1,13 @@
+#Kacper Turkowski#
+	In catalog is:
+	-cw1a.c
+		Program write UID GID PID PPID PGID
+	-cwb.c 
+		Program evokes fork three times
+	-cw1c.c 
+		Function sleep causes child processes to be taken over by the process init
+	-cw1d.c
+		Function sleep causes that child processes wait 2 seconds that child processes should be grouped for generation
+	-cw1e.c
+		Function setpgid causes that every processes begin lider of group
+	-Makefile 
