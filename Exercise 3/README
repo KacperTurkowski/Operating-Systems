@@ -1,0 +1,38 @@
+#Kacper Turkowski
+	In catalog is:
+		-cw3a.c
+			Basic program with three function: ignore, intercept and default
+		-cw3a.h
+			Header file with declaration of function
+		-function.c
+			File with definitions for cw3a program
+		-cw3b.c
+			Program send signal from parent process to Child process 
+		-cw3c.c
+			Program send signal from Parent process and create Child process, where a couple of Child process is created.
+		-Makefile
+#User manual#
+	Before use, you have to write "make all" command
+		-a
+			enter the command: "./cw3a.x", and next
+			i to ignore signal
+			d to default signal
+			p to intercept signal
+			and next number of process
+			for example: ./cw3a.x i 2
+		-b
+		        enter the command: "./cw3b.x", and next
+                        i to ignore signal
+                        d to default signal
+                        p to intercept signal
+                        and next number of process
+                        for example: ./cw3b.x i 2
+		-c
+                        enter the command: "./cw3c.x", and next
+                        i to ignore signal
+                        d to default signal
+                        p to intercept signal
+                        and next number of process
+                        for example: ./cw3c.x i 2
+
+

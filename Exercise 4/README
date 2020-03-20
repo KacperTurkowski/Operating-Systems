@@ -1,0 +1,9 @@
+#Kacper Turkowski
+	In catalog is:
+		-cw4.c
+			Main program where problem "producer and consumer" was implemented using pipes
+		-cw4.h
+			Header file with function declaration
+		-cw4f.c 
+			File with definition of function Saving and Reading
+		-Makefile
