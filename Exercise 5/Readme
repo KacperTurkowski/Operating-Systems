@@ -1,0 +1,27 @@
+#Kacper Turkowski
+====================================================================================================================================
+====================================================================================================================================
+	In catalog is:
+		-cw5a.c
+			Program read data from text file and save it in a FIFO, next save in out file
+		-cw5a.h
+			File with declaration of function
+		-function.c
+			File with definition of function
+		-in
+			Text file from which text is copied
+		-out
+			Text file where text is saved
+		-consumer.c
+			Program copy text from file  in to FIFO
+		-producer.c
+			program save text from FIFO to out file
+		-Makefile
+====================================================================================================================================
+====================================================================================================================================
+#Makefile
+	*To compile all files: make all
+	*To run program cw5a: make run
+	*To run consumer and producer: make cw5b
+====================================================================================================================================
+====================================================================================================================================

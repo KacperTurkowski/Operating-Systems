@@ -1,0 +1,2 @@
+void readfromfile();
+void save();

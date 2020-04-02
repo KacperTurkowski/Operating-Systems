@@ -1,0 +1,13 @@
+#KacperTurkowski
+#In catalog is:
+	-cw7.c
+		Main Program run 2 process: consumer and producer
+		Producer read data from file in to bufor in Shared Memory
+		Client read data from bufor and write do out file
+	-Library.c
+		file with function's definition
+	-Library.h
+		File with function's declaration
+	-Makefile
+#program#
+	To run program: "make run"

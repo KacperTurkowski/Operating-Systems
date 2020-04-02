@@ -1,0 +1,13 @@
+#Kacper Turkowski
+#1.In catalog is:
+	-Library.c
+		-File with definition of functions
+	-Library.h
+		-Header file with declaration of functions
+	-cw6.c
+		-Main program
+	-proces.c
+		-Program is ran in child process
+	-Makefile
+#Makefile#
+	To run program: "make run"
